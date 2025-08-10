@@ -1,0 +1,9 @@
+#home h1{
+    font-size: 50px;
+}
+.small-size{
+    font-size: 50px;
+}
+#contact-box form{
+    width: 80%;
+}

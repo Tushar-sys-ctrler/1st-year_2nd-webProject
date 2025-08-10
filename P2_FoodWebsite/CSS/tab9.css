@@ -1,0 +1,29 @@
+.client-item {
+    padding: 12px;
+}
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 5px;
+}
+#home{
+    height: 388px;  
+}
+#home::before{
+    height: 480px;  
+}
+#home p{
+    font-size: 13px;
+}
+
+/* utility classes */
+.h-primary{
+    font-size: 24px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}

@@ -1,0 +1,31 @@
+#navbar{
+    overflow: hidden;
+}
+#navbar ul li{
+    font-size: 1rem;
+}
+#home {
+    display: flex;
+    flex-direction: column;
+    padding: 3px 60px;
+    height: 452px;
+    justify-content: center;
+    align-items: center;
+}
+
+.client-item {
+    padding: 12px;
+}
+
+#clients{
+    padding-top: 50px;
+}
+#clients img{
+    width: 66px;
+    height: 66px;
+}
+
+.btn{
+    font-size: 16px;
+    padding: 4px 8px;
+}
